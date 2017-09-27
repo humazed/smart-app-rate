@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name" translatable="false">Rating Dialog</string>
-    <string name="rating_dialog_experience">قيمنا</string>
+    <string name="rating_dialog_experience">لضمان مشاهده المباريات بافضل جوده 
+يرجى اعاده تقييم التطبيق ب 5 نجوم 
+وكتابه إسم الفريق المفضل لك فى تعليق</string>
     <string name="rating_dialog_maybe_later">لاحقا</string>
     <string name="rating_dialog_never">ابدا</string>
     <string name="rating_dialog_feedback_title">Feedback</string>
